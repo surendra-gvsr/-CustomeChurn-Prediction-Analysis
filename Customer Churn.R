@@ -1,8 +1,3 @@
-# ECO 520 Business Analytics II
-# Assignment-4
-# Instructor: Peter Bondarenko
-#File Submitted By: Venkata Surendra Reddy G
-#Student Id: 2181389
 
 
 
